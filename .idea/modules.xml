@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/OICIntegrationBackup.iml" filepath="$PROJECT_DIR$/.idea/OICIntegrationBackup.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/../oicBackupProject/.idea/OICIntegrationBackup.iml" filepath="$PROJECT_DIR$/../oicBackupProject/.idea/OICIntegrationBackup.iml" />
+>>>>>>> b3e0dcfcbc61210349f65ab241cbfec460cd7c1c
     </modules>
   </component>
 </project>
